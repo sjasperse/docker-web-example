@@ -1,6 +1,6 @@
 Docker Example
 =================
-This repo is just to illustrate, hopefully very simply, a .NET Core app running in a docker container. The main take-away I wanted to demonstrate here is a simple example of using docker, and **that this is using .NET Core 1.1 without it needing to be installed on your machine** - which is pretty 
+This repo is just to illustrate, hopefully very simply, a .NET Core app running in a docker container. The main take-away I wanted to demonstrate here is a simple example of using docker, and **that this is using .NET Core 1.1 without it needing to be installed on your machine** - which is pretty cool.
 
 _Note: I wrote and tested this all on a mac - but it should work the same on Windows._
 
